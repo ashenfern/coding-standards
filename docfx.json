@@ -24,10 +24,11 @@
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "Dotnet Coding Standards",
-      "_appTitle": "Dotnet Coding Standards",
+      "_appName": "Standards",
+      "_appTitle": "Standards",
       "_enableSearch": true,
-      "pdf": true
+      "pdf": true,
+      "_appLogoPath": "images/mitrai-logo.png"
     }
   }
 }
